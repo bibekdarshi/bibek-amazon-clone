@@ -1,4 +1,4 @@
-# bibek-amazon-clone
+# bibek-demo
 This is my first git repository
 <br>
 Author-Bibekdarshi Maharana
